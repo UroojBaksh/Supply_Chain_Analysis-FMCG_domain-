@@ -7,7 +7,6 @@ These challenges are valuable for my growth. And I appreciate codebasics for com
 
 Challenge <a href= https://codebasics.io/event/codebasics-resume-project-challenge target="_blank">Link</a>
 
-My LinkedIN Submission <a href= https://www.linkedin.com/in/anjali-pandey-933a96167/ target="_blank">Link</a>
 
 <h2>Problem Statement</h2>
 
